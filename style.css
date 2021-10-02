@@ -1,0 +1,61 @@
+body{
+    margin: 20px;
+    background-color: paleturquoise;
+}
+#register{
+    padding: 10px;
+    border-radius: 5px;
+    border-color: greenyellow;
+    background-color: greenyellow;
+    color: black;
+    font-weight: bolder;
+    margin: 50px 60px;
+    cursor: pointer;
+}
+#register:hover{
+  
+    border-color: black;
+    background-color: black;
+    color:greenyellow;
+}
+#sign-up{
+    padding: 10px;
+    border-radius: 5px;
+    border-color: turquoise;
+    background-color: turquoise;
+    color: black;
+    font-weight: bolder;
+    margin: 50px 60px;
+    cursor: pointer;
+}
+#sign-up:hover{
+    border-color: black;
+    background-color: black;
+    color:turquoise;
+}
+#login{
+    padding: 10px;
+    border-radius: 5px;
+    border-color: red;
+    background-color: red;
+    color: black;
+    font-weight: bolder;
+    margin: 50px 60px;
+    cursor: pointer;
+}
+#login:hover{
+    border-color: black;
+    background-color: black;
+    color:red;
+}
+#disable{
+    padding: 10px;
+    border-radius: 5px;
+    border-color: darkgoldenrod;
+    background-color: darkgoldenrod;
+    color: black;
+    font-weight: bolder;
+    margin: 50px 60px;
+    cursor: not-allowed;
+    opacity: 0.5;
+}
